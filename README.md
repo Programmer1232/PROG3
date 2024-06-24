@@ -1,1 +1,2 @@
 # PROG3
+In this application i have made a recipe app that allows users too insert the the recipe name in the correct place that it must be in, it also gives us a list of the food group the different recepies go too as it gives us a better choise too seperate the recipe, you can click on the dropdown button and it will show you all the food group the different recipes fall under , the app also allows you too enter unlimited numbers of calories needed for the recipeie made 
